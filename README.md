@@ -2,8 +2,8 @@
 
 
 ## Objective
-This repository contains a collection of Arduino projects developed using an SSD1306 OLED Display, Push Buttons, and a Buzzer.
 To develop and implement a collection of Arduino-based OLED projects that demonstrate display interfacing, user interaction, timing applications, menu navigation, security systems, and real-time information display.
+This repository contains a collection of Arduino projects developed using an SSD1306 OLED Display, Push Buttons, and a Buzzer.
 
 
 ## Projects Included
