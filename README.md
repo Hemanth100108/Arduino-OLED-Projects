@@ -1,6 +1,5 @@
 # Arduino OLED Workshop Projects
 
-## Objective
 
 ## Objective
 This repository contains a collection of Arduino projects developed using an SSD1306 OLED Display, Push Buttons, and a Buzzer.
